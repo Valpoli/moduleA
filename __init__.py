@@ -1,1 +1,1 @@
-from .a_logic import do_a_stuff
+from .moduleA import do_a_stuff
